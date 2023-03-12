@@ -1,3 +1,5 @@
+package arbolBinario.src.arbolbinario;
+
 public class Pruebas {
     public static void main(String[] args) {
 
@@ -50,10 +52,7 @@ public class Pruebas {
 
     }
 
-    public static void printTree(){
 
-
-    }
 
 
 }
